@@ -1,0 +1,13 @@
+movie_id,title,cast,crew
+1,Sky Warrior,"[{'cast_id':1,'name':'Alex Carter'},{'cast_id':2,'name':'Emma Stone'},{'cast_id':3,'name':'Ryan Brooks'}]","[{'job':'Director','name':'Michael Scott'}]"
+2,Galaxy Mission,"[{'cast_id':1,'name':'Daniel Reed'},{'cast_id':2,'name':'Sophia Green'},{'cast_id':3,'name':'Chris Hall'}]","[{'job':'Director','name':'Laura King'}]"
+3,Funny Days,"[{'cast_id':1,'name':'Tom Adams'},{'cast_id':2,'name':'Olivia White'},{'cast_id':3,'name':'Ben Parker'}]","[{'job':'Director','name':'Kevin Lewis'}]"
+4,Magic Kingdom,"[{'cast_id':1,'name':'Liam Turner'},{'cast_id':2,'name':'Emily Clark'},{'cast_id':3,'name':'Noah Young'}]","[{'job':'Director','name':'Sarah Wilson'}]"
+5,Haunted House,"[{'cast_id':1,'name':'James Moore'},{'cast_id':2,'name':'Ava Hill'},{'cast_id':3,'name':'Ethan Scott'}]","[{'job':'Director','name':'David Brown'}]"
+6,Life Journey,"[{'cast_id':1,'name':'Henry Walker'},{'cast_id':2,'name':'Grace Allen'},{'cast_id':3,'name':'Jack Davis'}]","[{'job':'Director','name':'Anna Cooper'}]"
+7,Secret Agent,"[{'cast_id':1,'name':'Oliver King'},{'cast_id':2,'name':'Mia Baker'},{'cast_id':3,'name':'Lucas Carter'}]","[{'job':'Director','name':'Robert Evans'}]"
+8,Forever Love,"[{'cast_id':1,'name':'Ethan Reed'},{'cast_id':2,'name':'Ella Young'},{'cast_id':3,'name':'Leo Martin'}]","[{'job':'Director','name':'Sophia Hall'}]"
+9,Forest Friends,"[{'cast_id':1,'name':'Voice A'},{'cast_id':2,'name':'Voice B'},{'cast_id':3,'name':'Voice C'}]","[{'job':'Director','name':'Peter Wilson'}]"
+10,City Chase,"[{'cast_id':1,'name':'Adam Lewis'},{'cast_id':2,'name':'Lucy Green'},{'cast_id':3,'name':'Nathan Clark'}]","[{'job':'Director','name':'Brian Adams'}]"
+11,Hidden Truth,"[{'cast_id':1,'name':'Mason White'},{'cast_id':2,'name':'Chloe King'},{'cast_id':3,'name':'Logan Hill'}]","[{'job':'Director','name':'Steven Harris'}]"
+12,Last Escape,"[{'cast_id':1,'name':'Aaron Brooks'},{'cast_id':2,'name':'Lily Scott'},{'cast_id':3,'name':'Dylan Moore'}]","[{'job':'Director','name':'Rachel Young'}]"
